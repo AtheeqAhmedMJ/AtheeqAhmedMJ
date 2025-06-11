@@ -1,5 +1,3 @@
-Here’s an **accurately updated version of your cyberpunk-themed GitHub README**, made consistent with your official resume, **without altering your Projects section as per your request**:
-
 ---
 
 # 🌐 SYSTEM INITIALIZING... WELCOME TO THE GRID
