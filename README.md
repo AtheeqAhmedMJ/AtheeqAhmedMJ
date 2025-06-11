@@ -20,23 +20,6 @@
 
 </div>
 
----
-
-## 🔮 NEURAL INTERFACE >> IDENTITY_MATRIX.EXE
-
-```bash
-> whoami
-atheeq@grid:~$ DIGITAL_ARCHITECT | SYSTEM_ENGINEER | CODE_PHILOSOPHER
-> location
-atheeq@grid:~$ GITAM_UNIVERSITY >> CSE_IoT_DIVISION >> CLASS_2026
-> mission_status
-atheeq@grid:~$ FULLSTACK_DEV >> IoT_ENGINEER >> COMPETITIVE_PROGRAMMER >> PUBLISHED_AUTHOR
-> current_projects
-atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWORK
-````
-
----
-
 ## ⚡ TECHNOLOGY\_STACK >> DIGITAL\_ARSENAL
 
 ### 🧬 **CORE\_PROTOCOLS**
@@ -159,6 +142,22 @@ atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWO
 🏥 PRODUCTION_DEPLOYMENT   >> Dr. Shaik's Healthcare Systems (Health Box Platform)
 🚀 FULL-STACK_ARCHITECT   >> MediaSphere Ecosystem | VMN Backend Framework
 ```
+
+---
+---
+
+## 🔮 NEURAL INTERFACE >> IDENTITY_MATRIX.EXE
+
+```bash
+> whoami
+atheeq@grid:~$ DIGITAL_ARCHITECT | SYSTEM_ENGINEER | CODE_PHILOSOPHER
+> location
+atheeq@grid:~$ GITAM_UNIVERSITY >> CSE_IoT_DIVISION >> CLASS_2026
+> mission_status
+atheeq@grid:~$ FULLSTACK_DEV >> IoT_ENGINEER >> COMPETITIVE_PROGRAMMER >> PUBLISHED_AUTHOR
+> current_projects
+atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWORK
+````
 
 ---
 
