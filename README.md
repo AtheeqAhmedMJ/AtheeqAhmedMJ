@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=header&text=Welcome%20to%20Atheeq's%20World!&fontColor=FFFFFF&fontSize=30" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=00C9A7&width=600&lines=Hi%2C+I'm+Mohamed+Atheeq+Ahmed;Full-Stack+%7C+IoT+%7C+AI%2FML+Enthusiast;Building+MediaSphere+%7C+Health+Box+%7C+Smart+IoT;Open+to+Tech+and+Leadership+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=00C9A7&width=600&lines=Hi%2C+I'm+Mohamed+Atheeq+Ahmed;Full-Stack+%7C+IoT+%7C+AI%2FML+Enthusiast;Building+MediaSphere+%7C+Health+Box+%7C+Smart+Park+IoT;Open+to+Tech+and+Leadership+Roles!" alt="Typing SVG" />
 </a>
 
 <div align="center">
