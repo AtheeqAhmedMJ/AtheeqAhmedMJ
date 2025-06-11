@@ -1,10 +1,10 @@
-<!-- Hey there, I'm Mohamed Atheeq Ahmed MJ! -->
-<!-- Welcome to my GitHub. Explore my projects & feel free to connect! -->
+<!-- Welcome to the realm of Mohamed Atheeq Ahmed MJ -->
+<!-- Explore cutting-edge builds and engineering visions -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=header&text=Welcome%20to%20Atheeq's%20World!&fontColor=FFFFFF&fontSize=30" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=header&text=Welcome%20to%20Atheeq's%20Neon%20Grid&fontColor=FFFFFF&fontSize=30" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=00C9A7&width=600&lines=Hi%2C+I'm+Mohamed+Atheeq+Ahmed;Full-Stack+%7C+IoT+%7C+AI%2FML+Enthusiast;Building+MediaSphere+%7C+Health+Box+%7C+Smart+Park+IoT;Open+to+Tech+and+Leadership+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=00C9A7&width=600&lines=Engineer+of+Tomorrow;Full-Stack+Developer+%7C+IoT+Architect+%7C+AI%2FML+Explorer;Shaping+MediaSphere%2C+Health+Box%2C+Smart+Park+IoT;Open+to+Technical+Leadership+Opportunities" alt="Typing SVG" />
 </a>
 
 <div align="center">
@@ -13,72 +13,73 @@
 
 ---
 
-### 🎯 About Me
+## Identity Matrix
 
-- 🎓 B.Tech Computer Science & IoT @ GITAM (2026)
-- 💻 Passionate about **Full Stack Development (Flutter, React, Spring Boot)** and **IoT Systems**
-- 🌱 Exploring **AI/ML**, **Docker**, **Prompt Engineering**, and **Spline3D/Blender**
-- 📚 Published author of *Au Revoir Goodbye Till We Meet Again* & The Vestige
-- 🏆 Leading & developing real-world software solutions at Dr. Shaik’s Healthcare & CodeX Technical Club
+- B.Tech in Computer Science & IoT | GITAM | Class of 2026
+- Crafting scalable systems in Full Stack Engineering (Flutter, React, Spring Boot) and IoT Architectures
+- Exploring Artificial Intelligence, Machine Learning, Containerization, Prompt Engineering, and 3D Interaction Systems
+- Published author of *Au Revoir Goodbye Till We Meet Again* and *The Vestige*
+- Architecting and leading production-grade solutions at Dr. Shaik’s Healthcare and CodeX Technical Club
 
 ---
 
-### 🛠️ Technical Skills
+## Technology Stack
 
-**Languages:** Java, Dart, C, C++, Python, HTML5, CSS3, JavaScript  
-**Frameworks:** React.js, Spring Boot, Flutter  
+**Core Languages:** Java, Dart, C, C++, Python, HTML5, CSS3, JavaScript  
+**Frameworks & Libraries:** React.js, Spring Boot, Flutter  
 **Databases:** MySQL, PostgreSQL  
-**Tools:** Docker, TensorFlow, Git, GitHub, Microsoft Workspace  
-**Other:** Spline3D, Blender, Adobe AE (Video Editing), Content Writing
+**Engineering Tools:** Docker, TensorFlow, Git, GitHub, Microsoft Workspace  
+**Creative Suites:** Spline3D, Blender, Adobe After Effects, Technical Writing
 
 ---
 
-### 🚀 Best Projects
+## Prime Projects
 
-- 🔹 **MediaSphere**  
-  A suite of **six distinct cross-platform applications** built using **Electron & Flutter**, all wrapped in a cohesive, immersive UI:
-  - Music Player  
-  - Video Player  
-  - PDF Viewer  
-  - PPT Viewer  
-  - ePUB Reader  
-  - …and other modules!  
-  Each emphasizes seamless performance, optimized RAM usage, and a unified user experience.
+**MediaSphere Ecosystem**  
+A unified suite of six cross-platform desktop applications engineered using Electron and Flutter:
+- Audio Module  
+- Video Engine  
+- PDF Interface  
+- Presentation Viewer  
+- ePub Reader  
+- Future Modular Extensions  
+Optimized for seamless UX, reduced memory footprint, and cohesive system design.
 
-- 🔹 **Health Box – Hospital Management System**  
-  Developed with **Spring Boot & React.js**, this system streamlines hospital workflows—covering EMR, appointment scheduling, billing, pharmacy integration, and role-based access control.
+**Health Box – Integrated Healthcare Management System**  
+Full-stack platform combining Spring Boot and React.js to streamline clinical operations including EMR, appointments, pharmacy, billing, and access control systems.
 
-- 🔹 **VMN (Venture Management System)**  
-  A **Spring Boot** backend that facilitates startup mentorship, venture progress tracking, and comprehensive user role management.
+**VMN – Venture Management Node**  
+Backend framework (Spring Boot) empowering startup ecosystem management with mentorship tracking, venture progression logs, and role-oriented access.
 
-- 🔹 **Smart Park – IoT Parking Solution**  
-  An **Arduino & C++** prototype that automates parking-slot detection using sensors and provides real-time optimization of parking spaces.
----
-
-### 📊 GitHub Stats
-
-![Atheeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtheeqAhmedMJ&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtheeqAhmedMJ&layout=compact&theme=tokyonight)
+**Smart Park IoT Solution**  
+Arduino/C++ prototype system delivering dynamic parking slot detection, environmental scanning, and real-time optimization feedback.
 
 ---
 
-### 🏆 Achievements
+## Repository Analytics
 
-- 🏅 **Best Technical Club 2023-24** (CodeX, GITAM)
-- ✍️ **Published Author**: *Au Revoir Goodbye Till We Meet Again* (Amazon Kindle, Waterstones UK)
-- 🏆 Active on **CodeChef**, **Codeforces**, and **LeetCode**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtheeqAhmedMJ&show_icons=true&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtheeqAhmedMJ&layout=compact&theme=tokyonight)
 
 ---
 
-### 🌐 Let's Connect!
+## Milestones
+
+- Recognized for Technical Leadership at CodeX, GITAM (2023–24)
+- Published works available on Amazon Kindle, Waterstones UK
+- Active participant and problem solver on CodeChef, Codeforces, LeetCode
+
+---
+
+## Access Grid
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atheeq-ahmed-82193b26a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtheeqAhmedMJ)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdatheeq.2004@gmail.com)
 
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=footer" alt="footer"/>
 
-Thanks for scrolling till the end. Keep learning, keep building! 🚀
+**"Code. Architect. Reinvent. Repeat."**
+
