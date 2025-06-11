@@ -1,14 +1,9 @@
+```markdown
 # 🌐 SYSTEM INITIALIZING... WELCOME TO THE GRID
 
-```
-
 <p align="center">
-  <img src="LOGO.png" alt="Atheeq Logo" width="400">
+  <img src="logo.png" alt="Atheeq Logo" width="400">
 </p>
-
-
-
-```
 
 <div align="center">
 
@@ -17,7 +12,7 @@
 ```
 
 ╔═════════════════════════════════════════════════════════════════════════════════╗
-║  MOHAMED ATHEEQ AHMED MJ  ║  STUDENT  ║  B.TECH CSE+IoT '26     ║
+║  MOHAMED ATHEEQ AHMED MJ  ║  STUDENT  ║  B.TECH CSE+IoT '26                    ║
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 
 ````
@@ -201,4 +196,4 @@ atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWO
 **`DISCONNECTING FROM GRID... UNTIL NEXT CYCLE`**
 
 </div>
-
+```
