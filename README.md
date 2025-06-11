@@ -1,4 +1,4 @@
-<!-- Hey there, I'm Mohamed Atheeq Ahmed! -->
+<!-- Hey there, I'm Mohamed Atheeq Ahmed MJ! -->
 <!-- Welcome to my GitHub. Explore my projects & feel free to connect! -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=120&section=header&text=Welcome%20to%20Atheeq's%20World!&fontColor=FFFFFF&fontSize=30" alt="header"/>
@@ -18,7 +18,7 @@
 - 🎓 B.Tech Computer Science & IoT @ GITAM (2026)
 - 💻 Passionate about **Full Stack Development (Flutter, React, Spring Boot)** and **IoT Systems**
 - 🌱 Exploring **AI/ML**, **Docker**, **Prompt Engineering**, and **Spline3D/Blender**
-- 📚 Published author of *Au Revoir Goodbye Till We Meet Again* (Top 50 Indie Books by Notion Press)
+- 📚 Published author of *Au Revoir Goodbye Till We Meet Again* & The Vestige
 - 🏆 Leading & developing real-world software solutions at Dr. Shaik’s Healthcare & CodeX Technical Club
 
 ---
@@ -33,23 +33,26 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Best Projects
 
-- 🔹 [**MediaSphere**](https://github.com/MediaSphere680/Media_Sphere)  
-  *Cross-platform media player (Electron + Flutter) supporting videos, music, PDFs, PPT & EPUB with immersive UI & RAM optimization.*
+- 🔹 **MediaSphere**  
+  A suite of **six distinct cross-platform applications** built using **Electron & Flutter**, all wrapped in a cohesive, immersive UI:
+  - Music Player  
+  - Video Player  
+  - PDF Viewer  
+  - PPT Viewer  
+  - ePUB Reader  
+  - …and other modules!  
+  Each emphasizes seamless performance, optimized RAM usage, and a unified user experience.
 
-- 🔹 [**Health Box**](https://github.com/AtheeqAhmedMJ/clinicws)  
-  *Real-time hospital & pharmacy management system (Spring Boot + React.js) with EMR, billing & role-based control.*
+- 🔹 **Health Box – Hospital Management System**  
+  Developed with **Spring Boot & React.js**, this system streamlines hospital workflows—covering EMR, appointment scheduling, billing, pharmacy integration, and role-based access control.
 
-- 🔹 [**VMN (Venture Management System)**](https://github.com/c-code-x/vmn-backend)  
-  *Spring Boot-based backend system to manage startup progress, mentorship & venture development.*
+- 🔹 **VMN (Venture Management System)**  
+  A **Spring Boot** backend that facilitates startup mentorship, venture progress tracking, and comprehensive user role management.
 
-- 🔹 [**Meal Reminder App**](https://github.com/AtheeqAhmedMJ/meal_reminder_app)  
-  *Flutter app for personalized meal & fitness tracking with reminders & progress visualization.*
-
-- 🔹 [**Smart Park (IoT Project)**](https://github.com/AtheeqAhmedMJ/SmartPark)  
-  *Arduino + C++ based smart parking prototype for automatic slot detection and space optimization.*
-
+- 🔹 **Smart Park – IoT Parking Solution**  
+  An **Arduino & C++** prototype that automates parking-slot detection using sensors and provides real-time optimization of parking spaces.
 ---
 
 ### 📊 GitHub Stats
