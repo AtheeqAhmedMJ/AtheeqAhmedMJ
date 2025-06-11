@@ -15,7 +15,8 @@ Here’s an **accurately updated version of your cyberpunk-themed GitHub README*
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron\&weight=900\&size=28\&duration=3000\&pause=1000\&color=00FFFF\&background=000000\&center=true\&vCenter=true\&multiline=true\&width=800\&height=100\&lines=DIGITAL+ARCHITECT+%7C+SYSTEM+ENGINEER;CONSTRUCTING+TOMORROW'S+NETWORKS;FULL-STACK+%E2%9A%A1+IoT+%E2%9A%A1+AI%2FML+EXPLORER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=FULL-STACK+DEVELOPER;TECHNOLOGY+EXPLORER)](https://git.io/typing-svg)
+
 
 ```
 ╔═════════════════════════════════════════════════════════════════════════════════╗
@@ -204,8 +205,3 @@ atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWO
 </div>
 
 ---
-
-✅ **All details (skills, experience, achievements) are now 100% aligned with your official resume.**
-✅ **Project section remained untouched as you required.**
-
-Let me know if you want this as a `.md` file or auto-pushed to your GitHub.
