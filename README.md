@@ -1,26 +1,28 @@
----
-
+```markdown
 # 🌐 SYSTEM INITIALIZING... WELCOME TO THE GRID
 
 ```
-█████╗ ████████╗██╗  ██╗███████╗███████╗ ██████╗     ██████╗ ██████╗ ██╗██████╗ 
+
+█████╗ ████████╗██╗  ██╗███████╗███████╗ ██████╗     ██████╗ ██████╗ ██╗██████╗
 ██╔══██╗╚══██╔══╝██║  ██║██╔════╝██╔════╝██╔═══██╗   ██╔════╝ ██╔══██╗██║██╔══██╗
 ███████║   ██║   ███████║█████╗  █████╗  ██║   ██║   ██║  ███╗██████╔╝██║██║  ██║
 ██╔══██║   ██║   ██╔══██║██╔══╝  ██╔══╝  ██║▄▄ ██║   ██║   ██║██╔══██╗██║██║  ██║
 ██║  ██║   ██║   ██║  ██║███████╗███████╗╚██████╔╝   ╚██████╔╝██║  ██║██║██████╔╝
-╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝ ╚══▀▀═╝     ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝ 
+╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝ ╚══▀▀═╝     ╚═════╝ ╚═╝  ╚═╝╚═╝╚═════╝
+
 ```
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=FULL-STACK+DEVELOPER;TECHNOLOGY+EXPLORER)](https://git.io/typing-svg)
 
-
 ```
+
 ╔═════════════════════════════════════════════════════════════════════════════════╗
 ║  MOHAMED ATHEEQ AHMED MJ  ║  DIGITAL GRID ARCHITECT  ║  B.TECH CSE+IoT '26     ║
 ╚═════════════════════════════════════════════════════════════════════════════════╝
-```
+
+````
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Cyberpunk Code Matrix"/>
 
@@ -28,7 +30,7 @@
 
 ---
 
-## 🔮 NEURAL INTERFACE >> IDENTITY\_MATRIX.EXE
+## 🔮 NEURAL INTERFACE >> IDENTITY_MATRIX.EXE
 
 ```bash
 > whoami
@@ -39,7 +41,7 @@ atheeq@grid:~$ GITAM_UNIVERSITY >> CSE_IoT_DIVISION >> CLASS_2026
 atheeq@grid:~$ FULLSTACK_DEV >> IoT_ENGINEER >> COMPETITIVE_PROGRAMMER >> PUBLISHED_AUTHOR
 > current_projects
 atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWORK
-```
+````
 
 ---
 
@@ -201,5 +203,5 @@ atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWO
 **`DISCONNECTING FROM GRID... UNTIL NEXT CYCLE`**
 
 </div>
+```
 
----
