@@ -1,4 +1,3 @@
-```markdown
 # 🌐 SYSTEM INITIALIZING... WELCOME TO THE GRID
 
 ```
@@ -176,9 +175,9 @@ atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWO
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN_GRID-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/atheeq-ahmed-82193b26a/)
-[![GitHub](https://img.shields.io/badge/CODE_REPOSITORY-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AtheeqAhmedMJ)
-[![Gmail](https://img.shields.io/badge/SECURE_CHANNEL-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mdatheeq.2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/atheeq-ahmed-82193b26a/)
+[![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AtheeqAhmedMJ)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mdatheeq.2004@gmail.com)
 
 </div>
 
@@ -203,5 +202,4 @@ atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWO
 **`DISCONNECTING FROM GRID... UNTIL NEXT CYCLE`**
 
 </div>
-```
 
