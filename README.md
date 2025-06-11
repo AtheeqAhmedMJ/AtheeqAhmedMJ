@@ -3,7 +3,7 @@
 ```
 
 <p align="center">
-  <img src="logo.png" alt="Atheeq Logo" width="400">
+  <img src="LOGO.png" alt="Atheeq Logo" width="400">
 </p>
 
 
