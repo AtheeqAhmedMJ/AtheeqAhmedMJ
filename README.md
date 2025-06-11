@@ -2,7 +2,10 @@
 
 ```
 
-[![View My Logo in Figma](https://img.shields.io/badge/VIEW-FIGMA%20LOGO-00C1FF?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/wWDsQ17e8fYESZMDBgVknE/Figma-basics?node-id=2605-20&mode=design&t=d8AeoHZpXLKaJhsk-1)
+<p align="center">
+  <img src="logo.png" alt="Atheeq Logo" width="400">
+</p>
+
 
 
 ```
