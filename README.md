@@ -143,8 +143,6 @@ atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWO
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtheeqAhmedMJ\&show_icons=true\&theme=chartreuse-dark\&bg_color=000000\&title_color=00FFFF\&icon_color=FF00FF\&text_color=00FF00\&border_color=00FFFF)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtheeqAhmedMJ\&layout=compact\&theme=chartreuse-dark\&bg_color=000000\&title_color=00FFFF\&text_color=00FF00\&border_color=FF00FF)
 
 </div>
