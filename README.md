@@ -72,17 +72,12 @@
 
 ### 🌐 Let's Connect!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/atheeq-ahmed-82193b26a/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/AtheeqAhmedMJ">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" style="filter: invert(1);"/>
-  </a>
-  <a href="mailto:mdatheeq.2004@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="Gmail"/>
-  </a>
-</div>
+### 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atheeq-ahmed-82193b26a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtheeqAhmedMJ)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdatheeq.2004@gmail.com)
+
 
 ---
 
