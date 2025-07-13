@@ -187,8 +187,6 @@ atheeq@grid:~$ MEDIASPHERE_ECOSYSTEM | HEALTH_BOX_PLATFORM | VMN_BACKEND_FRAMEWO
 ╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-[![Visitor Count](https://profile-counter.glitch.me/AtheeqAhmedMJ/count.svg?style=flat\&color=00FFFF)](https://github.com/AtheeqAhmedMJ)
-
 **`DISCONNECTING FROM GRID... UNTIL NEXT CYCLE`**
 
 </div>
