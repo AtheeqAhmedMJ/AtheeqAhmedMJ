@@ -1,9 +1,5 @@
 # 🌐 SYSTEM INITIALIZING... WELCOME TO THE GRID
 
-<p align="center">
-  <img src="LOGO.png" alt="Atheeq Logo" width="400">
-</p>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=FULL-STACK+DEVELOPER;TECHNOLOGY+EXPLORER)](https://git.io/typing-svg)
